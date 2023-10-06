@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on steyp<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about<br>⚡ Fun fact
+🌱 I’m currently learning Full Stack Development<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
