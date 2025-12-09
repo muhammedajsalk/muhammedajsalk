@@ -1,16 +1,18 @@
-<!-- Header with Typing Animation -->
 <h1 align="center">
   Hi 👋, I'm Muhammed Ajsal
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F72C57&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F72C57&width=435&lines=MERN+Stack+Developer;Next.js+%26+TypeScript;Scalable+Web+Architectures" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me:
-- 🌱 I’m currently learning **Full Stack Development (MERN)**
-- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- [cite_start]👨‍💻 I am a **MERN Stack Developer** based in **Kozhikode, India**[cite: 1, 5].
+- [cite_start]🚀 Currently leading the development of a modular MVC CRM platform at **Kodlar Innovations**[cite: 15, 16].
+- [cite_start]💼 Previously engineered secure e-learning platforms as an intern at **Bridgeon Solutions**[cite: 19, 20].
+- [cite_start]🛠️ Specializing in **Microservices, RBAC, Redis Caching, and Real-time communication**[cite: 9, 10, 12].
+- [cite_start]📫 Reach me at **ajsalmuhammed747@gmail.com**[cite: 2].
 
 ---
 
@@ -18,27 +20,54 @@
 <p align="center">
 <a href="https://discordapp.com/users/_muhammedajsal" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord"/></a>
 <a href="https://instagram.com/__mohmd_ajsal" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="instagram"/></a>
-<a href="https://www.linkedin.com/in/muhammed-ajsal-k-232b62248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/muhammed-ajsal-k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
 ---
 
 ### 💻 Tech Stack:
+**Frontend:**
 <p align="center">
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+</p>
+
+**Backend & Database:**
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
+
+**Tools & DevOps:**
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Professional Experience & Projects:
+
+#### 🏢 Kodlar Innovations | CRM SaaS Platform
+*Led the backend development for a modular MVC CRM platform.*
+- [cite_start]**Impact:** Developed 35+ secure REST APIs handling 1,000+ daily requests[cite: 17].
+- [cite_start]**Tech:** Node.js, Express, JWT, Role-Based Access Control (RBAC), Redis Caching[cite: 26].
+- [cite_start]**Leadership:** Streamlined workflows for a 6-member team in an Agile environment[cite: 18].
+
+#### 🎓 Bridgeon Solutions | E-Learning Platform
+*Developed a subscription-based learning platform.*
+- [cite_start]**Security:** Engineered APIs with JWT Auth, cutting unauthorized access by 95%[cite: 22].
+- [cite_start]**Features:** Integrated secure watermarked video playback and Razorpay for payments[cite: 28, 30].
 
 ---
 
