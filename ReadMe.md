@@ -8,11 +8,11 @@
 ---
 
 ### 💫 About Me:
-- [cite_start]👨‍💻 I am a **MERN Stack Developer** based in **Kozhikode, India**[cite: 1, 5].
-- [cite_start]🚀 Currently leading the development of a modular MVC CRM platform at **Kodlar Innovations**[cite: 15, 16].
-- [cite_start]💼 Previously engineered secure e-learning platforms as an intern at **Bridgeon Solutions**[cite: 19, 20].
-- [cite_start]🛠️ Specializing in **Microservices, RBAC, Redis Caching, and Real-time communication**[cite: 9, 10, 12].
-- [cite_start]📫 Reach me at **ajsalmuhammed747@gmail.com**[cite: 2].
+- 👨‍💻 I am a **MERN Stack Developer** based in **Kozhikode, India**.
+- 🚀 Currently leading the development of a modular MVC CRM platform at **Kodlar Innovations**.
+- 💼 Previously engineered secure e-learning platforms as an intern at **Bridgeon Solutions**.
+- 🛠️ Specializing in **Microservices, RBAC, Redis Caching, and Real-time communication**.
+- 📫 Reach me at **ajsalmuhammed747@gmail.com**.
 
 ---
 
@@ -60,14 +60,14 @@
 
 #### 🏢 Kodlar Innovations | CRM SaaS Platform
 *Led the backend development for a modular MVC CRM platform.*
-- [cite_start]**Impact:** Developed 35+ secure REST APIs handling 1,000+ daily requests[cite: 17].
-- [cite_start]**Tech:** Node.js, Express, JWT, Role-Based Access Control (RBAC), Redis Caching[cite: 26].
-- [cite_start]**Leadership:** Streamlined workflows for a 6-member team in an Agile environment[cite: 18].
+- **Impact:** Developed 35+ secure REST APIs handling 1,000+ daily requests.
+- **Tech:** Node.js, Express, JWT, Role-Based Access Control (RBAC), Redis Caching.
+-**Leadership:** Streamlined workflows for a 6-member team in an Agile environment.
 
 #### 🎓 Bridgeon Solutions | E-Learning Platform
 *Developed a subscription-based learning platform.*
-- [cite_start]**Security:** Engineered APIs with JWT Auth, cutting unauthorized access by 95%[cite: 22].
-- [cite_start]**Features:** Integrated secure watermarked video playback and Razorpay for payments[cite: 28, 30].
+- **Security:** Engineered APIs with JWT Auth, cutting unauthorized access by 95%.
+- **Features:** Integrated secure watermarked video playback and Razorpay for payments.
 
 ---
 
