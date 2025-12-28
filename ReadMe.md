@@ -34,9 +34,9 @@
 ---
 
 ## About Me  
-[cite_start]Results-driven **MERN Stack Developer** with a focus on building high-performance, scalable architectures[cite: 8]. [cite_start]I specialize in engineering modular backend systems and optimizing database performance[cite: 10, 17].
+Results-driven **MERN Stack Developer** with a focus on building high-performance, scalable architectures.I specialize in engineering modular backend systems and optimizing database performance.
 
-[cite_start]Currently, I am working at **Kodlar Innovations**, where I lead the development of modular CRM platforms and SaaS solutions using Next.js 14 and TypeScript[cite: 23, 41]. [cite_start]I am passionate about clean code, secure authentication (JWT/OAuth), and efficient state management using RTK Query[cite: 21, 43].
+Currently, I am working at **Kodlar Innovations**, where I lead the development of modular CRM platforms and SaaS solutions using Next.js 14 and TypeScript. I am passionate about clean code, secure authentication (JWT/OAuth), and efficient state management using RTK Query.
 
 ---
 
