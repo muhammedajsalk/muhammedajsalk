@@ -1,7 +1,6 @@
 <div align="center" style="background: url('https://i.ibb.co/v4j1z6d/tech-dark-bg.jpg') no-repeat center center fixed; background-size: cover; padding: 30px 0; border-radius: 12px;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2C3E50&height=100&section=header" /> 
-<img align="left" src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-react-a-javascript-library-for-building-user-interfaces-logo-duo-tal-revivo.png" width="80px">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammed+Ajsal;MERN+Stack+Developer;Backend+Optimization+Specialist" alt="Typing Animation" />
