@@ -1,93 +1,89 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:2C3E50&amp;height=100&amp;section=header" width="100%" alt="Blue wave header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2C3E50&height=100&section=header" width="100%" alt="Header" />
+<h1 align="center">Hi, I'm Muhammed Ajsal 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Muhammed+Ajsal;Full+Stack+%26+React+Native+Developer;Building+Web%2C+Mobile+%26+SaaS+Products" alt="Typing Animation" />
+<p align="center">
+  <strong>Full Stack Developer · React Native · Backend &amp; SaaS Engineering</strong>
+</p>
 
-**Full Stack Developer at Parké | Zapdrive Technologies Pvt. Ltd.**
-
-Building products that connect parking operations, businesses, and customers.
-
-</div>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;pause=1200&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+Web+%26+Mobile+Applications;Engineering+Modular+Backend+Systems;Connecting+Parking%2C+Payments+%26+SaaS" width="800" alt="Building web and mobile applications, modular backend systems, and parking SaaS products" />
+</p>
 
 ## About Me
 
-I'm a **Full Stack and React Native Developer** working at **Parké (Zapdrive Technologies Pvt. Ltd.)**.
+I'm a **MERN stack developer at Kodlar Innovations**, working across web applications, React Native mobile apps, and modular backend services.
 
-I work across the product lifecycle—from planning features and designing APIs to building interfaces, testing, deploying, and supporting production applications.
+My work on the **Parke ecosystem** spans customer and partner apps, administrative dashboards, and parking SaaS tools. I focus on connecting booking, payment, subscription, and operational workflows through maintainable APIs and clear user experiences.
 
-My work includes customer and partner mobile apps, admin panels, SaaS dashboards, and business websites. I primarily use the **MERN stack, React Native, and Expo**, with hands-on experience in **AWS deployments and DevOps**.
+I'm especially interested in **backend performance, role-based access control, MongoDB query optimization, and API state management with RTK Query**.
 
-## What I Do
+## What I'm Working On
 
-- **Mobile Development:** Build and maintain React Native apps for Android and iOS using Expo.
-- **Full Stack Development:** Develop React interfaces, Node.js/Express APIs, and MongoDB data models.
-- **Parking & SaaS Products:** Implement prebooking, drive-in, valet, monthly parking, and subscription workflows.
-- **Payments & Operations:** Integrate Razorpay payments, QR and cash flows, refunds, wallets, and payout reports.
-- **Maps & Location:** Integrate Google Maps, place search, geocoding, and location-based experiences.
-- **Integrations:** Work with vehicle verification APIs, OTP services, push notifications, and Bluetooth thermal printers.
-- **Cloud & Deployment:** Manage deployments using AWS Elastic Beanstalk, Amplify, and Expo EAS.
-- **Production Support:** Investigate issues, improve API performance, and support operational teams.
-
----
+| Project Area | Focus |
+| --- | --- |
+| **Parke Customer App** | Map-based parking discovery, hourly and monthly bookings, slot requests, wallets, payments, and tickets. |
+| **Parke Partner App** | QR check-in and check-out, slot approvals, occupancy, cash collection, valet pickup, and thermal receipt printing. |
+| **Parke Backend** | Booking lifecycles, wallet and payment workflows, notifications, staff operations, and administrative APIs. |
+| **Parke Admin Panel** | Role-based administration, parking and pricing controls, refunds, SaaS subscription overviews, and operational reports. |
+| **Parking SaaS Platform** | Organization onboarding, subscription plans, feature entitlements, team permissions, booking operations, and revenue reporting. |
+| **Parke Web Experiences** | Responsive React interfaces for parking search, booking tickets, valet tracking, and business onboarding. |
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,redux,tailwind,aws,git,github,postman&perline=7" alt="Technology Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,mui,vite&amp;theme=dark" alt="JavaScript, TypeScript, React, Redux, Tailwind CSS, Material UI, and Vite" />
 </p>
 
 <p align="center">
-  <strong>Also working with:</strong><br />
-  React Native · Expo · EAS · Razorpay · Google Maps Platform<br />
-  AWS Elastic Beanstalk · AWS Amplify · MongoDB Atlas
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws,git,postman&amp;theme=dark" alt="Node.js, Express, MongoDB, Firebase, AWS, Git, and Postman" />
 </p>
 
----
+| Area | Technologies |
+| --- | --- |
+| **Web** | React, Redux Toolkit, RTK Query, Tailwind CSS, Material UI, Vite |
+| **Mobile** | React Native, Expo, Expo Router, React Native Maps |
+| **Backend & Data** | Node.js, Express, JavaScript, TypeScript, MongoDB, Mongoose |
+| **Authentication & Validation** | JWT, role-based access control, Joi, Zod |
+| **Integrations** | Razorpay, Firebase Cloud Messaging, Google Maps, Socket.IO, Amazon S3 |
+| **Reporting & Visualization** | Chart.js, Recharts, CSV exports, PDF generation |
 
-## Product Experience
+## Engineering Highlights
 
-### Customer & Partner Mobile Apps
-Booking journeys, parking availability, payments, notifications, vehicle verification, and partner operations across different parking modes.
-
-### SaaS & Admin Platforms
-Business dashboards, subscription plans, staff permissions, booking management, revenue reports, and operational tools.
-
-### Backend & Integrations
-REST APIs, authentication, database queries, payment integrations, third-party services, and production troubleshooting.
-
-### Websites & Deployment
-Business websites, responsive interfaces, cloud hosting, and application releases.
-
----
+- **Modular services:** Organizing backend features into routes, controllers, services, models, and validation layers.
+- **Access control:** Connecting JWT authentication, role permissions, organization-scoped data, and subscription entitlements.
+- **Booking and payments:** Working with slot requests, monthly parking, Razorpay checkout, webhook verification, wallets, and refunds.
+- **Backend efficiency:** Using MongoDB indexes, lean queries, aggregation pipelines, and in-process caches for frequently accessed data.
+- **Connected operations:** Integrating push notifications, Socket.IO admin updates, QR workflows, and partner tools.
+- **Operational visibility:** Building dashboards and exportable reports for bookings, revenue, subscriptions, and parking activity.
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedajsalk&theme=react-dark&hide_border=true&bg_color=0D1117&line=36BCF7&point=2C3E50&area=true" width="95%" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedajsalk&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;line=36BCF7&amp;point=2C3E50&amp;area=true" width="95%" alt="Muhammed Ajsal's GitHub contribution activity" />
 </p>
-
----
 
 ## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/muhammed-ajsal-k">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ajsalmuhammed747@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://muhammedajsalk.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/muhammedajsalk">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<h3 align="center">Building products. Solving real-world problems.</h3>
+<h3 align="center">Building practical products, from APIs to mobile experiences.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:36BCF7&height=120&section=footer" width="100%" alt="Footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2C3E50,100:36BCF7&amp;height=100&amp;section=footer" width="100%" alt="Blue wave footer" />
+</p>
